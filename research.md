@@ -10,3 +10,5 @@ I am working at the intersection of statistics, machine learning, econometrics, 
 Predicting Cycling Counters: Using bike-sharing and app data to predict the general cycling volume in Berlin. With Prof. Lynn Kaack
 
 A prediction of cycling volume in Berlin, using the methods described in the paper, can be found here:
+
+<iframe src="assets/heatmap_with_time.html" width="100%" height="400"></iframe>
