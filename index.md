@@ -20,6 +20,18 @@ layout: default
     </div>
 </div>
 
+<a href="[https://scholar.google.com/citations/your-profile-id](https://scholar.google.de/citations?user=gcnnM8IAAAAJ&hl=de&oi=sra)">
+  <img src="url-to-google-scholar-icon" alt="Google Scholar">
+</a>
+
+<a href="www.linkedin.com/in/silke-kaiser">
+  <img src="url-to-linkedin-icon" alt="LinkedIn">
+</a>
+
+<a href="https://twitter.com/your-profile-id">
+  <img src="url-to-twitter-icon" alt="Twitter">
+</a>
+
 
 
 
