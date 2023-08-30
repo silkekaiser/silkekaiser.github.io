@@ -9,7 +9,8 @@ layout: default
         <h1>Welcome</h1>
         <p>
             I am a Ph.D. student at the Berlin School of Economics and am being supervised by
-            [Prof. Lynn Kaack](https://lynnkaack.com/index.html) at [Hertie School Berlin](https://www.hertie-school.org/en/datasciencelab/people/profile/person/kaiser).
+            [Prof. Lynn Kaack](https://lynnkaack.com/index.html) at
+            <a href="https://www.hertie-school.org/en/datasciencelab/people/profile/person/kaiser">Hertie School Berlin</a>.
             My research focuses on bicycle mobility data and statistical machine learning. I hope with my projects
             to contribute to a better quality of life in urban spaces.
         </p>
