@@ -28,7 +28,7 @@ layout: default
   <img src="url-to-linkedin-icon" alt="LinkedIn">
 </a>
 
-<a href="https://twitter.com/your-profile-id">
+<a href="https://twitter.com/S_K_Kaiser">
   <img src="url-to-twitter-icon" alt="Twitter">
 </a>
 
