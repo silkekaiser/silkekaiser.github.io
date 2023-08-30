@@ -9,7 +9,7 @@ layout: default
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="assets/KaiserSilke_profil.JPG" alt="Profile Image" width="60" height="90" style="margin-right: 20px;">
+    <img src="assets/KaiserSilke_profil.JPG" alt="Profile Image" width="200" height="250" style="margin-right: 20px;">
     <div>
         <h1>Welcome</h1>
         <p>
