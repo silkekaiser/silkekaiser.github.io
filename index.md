@@ -4,7 +4,8 @@ layout: default
 # Welcome
 
 
-![](assets/KaiserSilke_profil.JPG)
+<img src="assets/KaiserSilke_profil.JPG" alt="Profile Image" width="50" height="70">
+
 
 I am a Ph.D. student at the Berlin School of Economics and am being supervised by [Prof. Lynn Kaack](https://lynnkaack.com/index.html) at [Hertie School Berlin](https://www.hertie-school.org/en/datasciencelab/people/profile/person/kaiser). My research focuses on bicycle mobility data and statistical machine learning. I hope with my projects to contribute to a better quality of life in urban spaces.
 
