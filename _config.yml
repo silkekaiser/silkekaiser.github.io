@@ -4,7 +4,7 @@ description: 'PhD Student in Machine Learning and Sustainable Transport'
 name: 'Silke Kaiser'
 url: https://silkekaiser.github.io
 
-remote_theme: jekyll/minima
+theme: jekyll-theme-cayman
 
 github_username:      silkekaiser
 
