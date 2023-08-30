@@ -6,7 +6,6 @@ layout: default
 <div style="display: flex; align-items: center;">
     <img src="assets/KaiserSilke_profil.JPG" alt="Profile Image" width="200" height="300" style="margin-right: 20px;">
     <div>
-        <h1>Welcome</h1>
         <p>
             I am a Ph.D. student at the Berlin School of Economics and am being supervised by
             [Prof. Lynn Kaack](https://lynnkaack.com/index.html) at
