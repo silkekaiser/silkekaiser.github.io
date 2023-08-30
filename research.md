@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-# Research Interest
+# Research
+
+-----------------------------------
+## Research Interest
+
 I am working at the intersection of machine learning and sustainable transport research. My interests include also applied econometrics, AI and spatio-temporal applications of statistics.
 
 -----------------------------------
