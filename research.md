@@ -11,6 +11,6 @@ Predicting Cycling Counters: Using bike-sharing and app data to predict the gene
 
 A prediction of cycling volume in Berlin, using the methods described in the paper, can be found here:
 
-<iframe src="assets/heatmap_with_time.html" style="width: 100%; max-width: 1000px; height: 80vh; border: none;"></iframe>
+<iframe src="assets/heatmap_with_time.html" style="width: 100%; max-width: 1000px; height: 70vh; border: none;"></iframe>
 
 
