@@ -20,10 +20,8 @@ layout: default
     </div>
 </div>
 
- 
 <div class="icon-links">
-
-<a href="mailto:your.email@example.com">
+  <a href="mailto:your.email@example.com">
     <i class="fa fa-envelope"></i> Email Me
   </a>
   
@@ -39,34 +37,28 @@ layout: default
     <i class="fa fa-twitter"></i> Twitter
   </a>
 
-<a href="https://github.com/silkekaiser">
-  <i class="fa fa-github"></i> Github
-</a>
-
-
-  
+  <a href="https://github.com/silkekaiser">
+    <i class="fa fa-github"></i> Github
+  </a>
 </div>
-
-
 
 <style>
   .icon-links {
     display: flex;
-    flex-direction: column; /* Change the layout to a column */
-    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center the links horizontally */
+    align-items: center;
     max-width: 300px;
     margin: 0 auto;
   }
 
   .icon-links a {
     text-decoration: none;
-    margin-bottom: 20px; /* Increase the spacing between links */
-    display: flex; /* Align icon and text horizontally */
-    align-items: center; /* Center icon and text vertically */
+    margin-right: 20px; /* Add spacing between links */
+    display: flex;
+    align-items: center;
   }
 
   .icon-links i {
-    margin-right: 10px; /* Add spacing between icon and text */
+    margin-right: 10px;
   }
 </style>
-
