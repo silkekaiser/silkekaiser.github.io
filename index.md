@@ -21,6 +21,19 @@ layout: default
 </div>
 
  
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          <center>
+            <a href="https://github.com/{{ site.github_username }}">
+              <i class="fa fa-github"></i> My Github account
+            </a>
+          </center>
+        </ul>
+      </div>
+    </div>
+  </div>
 
 
 <div class="icon-links">
