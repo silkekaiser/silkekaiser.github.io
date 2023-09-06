@@ -20,13 +20,7 @@ layout: default
     </div>
 </div>
 
-
-
-            
-    <a href="https://github.com/{{ site.github_username }}">
-      <i class="fa fa-github"></i> My Github account
-    </a>
-            
+ 
 
 
 <div class="icon-links">
