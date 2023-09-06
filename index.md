@@ -32,10 +32,6 @@ layout: default
     <img src="url-to-google-scholar-icon" alt="Google Scholar">
   </a>
 
-  <a href="https://github.com/{{ site.github_username }}">
-      <i class="fa fa-github"></i> My Github account
-  </a>
-
   <a href="www.linkedin.com/in/silke-kaiser">
     <img src="url-to-linkedin-icon" alt="LinkedIn">
   </a>
