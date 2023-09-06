@@ -21,9 +21,6 @@ layout: default
 </div>
 
 <div class="icon-links">
-  <a href="mailto:your.email@example.com">
-    <i class="fa fa-envelope"></i> Email Me
-  </a>
   
   <a href="https://scholar.google.de/citations?user=gcnnM8IAAAAJ&hl=de&oi=sra">
     <i class="fa fa-graduation-cap"></i> Google Scholar
