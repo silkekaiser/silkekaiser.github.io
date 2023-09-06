@@ -17,7 +17,7 @@ github_username:      silkekaiser
  [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/USERNAME"
+    link = "//github.com/silkekaiser"
 
  [[params.social]]
     icon = "twitter"
