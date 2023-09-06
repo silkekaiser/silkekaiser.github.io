@@ -38,10 +38,3 @@ layout: default
   <li><a href="#"><i class="fa fa-twitter fa-5x"></i> Applications</a></li>
 </ul>
 
-<p><i class="fa fa-camera-retro fa-5x"></i> fa-camera-retro</p>
-
-<section>
-  <Link href="//github.com/silkekaiser">
-    <a><FontAwesomeIcon icon={faChevronRight} /></a>
-  </Link>
-</section>
