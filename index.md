@@ -51,20 +51,22 @@ layout: default
 
 <style>
   .icon-links {
-    display: flex; /* Make the icons align horizontally */
-    justify-content: space-between; /* Add space between icons */
-    max-width: 300px; /* Adjust the maximum width as needed */
-    margin: 0 auto; /* Center the icons horizontally */
+    display: flex;
+    flex-direction: column; /* Change the layout to a column */
+    align-items: center; /* Center items horizontally */
+    max-width: 300px;
+    margin: 0 auto;
   }
 
   .icon-links a {
-    text-decoration: none; /* Remove underlines from links */
+    text-decoration: none;
+    margin-bottom: 20px; /* Increase the spacing between links */
+    display: flex; /* Align icon and text horizontally */
+    align-items: center; /* Center icon and text vertically */
   }
 
-  .icon-links img {
-    width: 50px; /* Adjust the width of the icons as needed */
-    height: 50px; /* Adjust the height of the icons as needed */
-    margin-right: 80px; /* Add some spacing between icons */
+  .icon-links i {
+    margin-right: 10px; /* Add spacing between icon and text */
   }
 </style>
 
