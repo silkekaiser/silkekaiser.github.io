@@ -32,9 +32,36 @@ layout: default
   <img src="url-to-twitter-icon" alt="Twitter">
 </a>
 
-<ul class="nav nav-pills nav-stacked">
-  <li class="active"><a href="#"><i class="fa fa-google fa-5x"></i> Link here</a></li>
-  <li><a href="#"><i class="fa fa-linkedin fa-5x"></i> Link here</a></li>
-  <li><a href="#"><i class="fa fa-twitter fa-5x"></i> Link here</a></li>
-</ul>
+<div class="icon-links">
+  <a href="https://scholar.google.de/citations?user=gcnnM8IAAAAJ&hl=de&oi=sra">
+    <img src="url-to-google-scholar-icon" alt="Google Scholar">
+  </a>
+
+  <a href="www.linkedin.com/in/silke-kaiser">
+    <img src="url-to-linkedin-icon" alt="LinkedIn">
+  </a>
+
+  <a href="https://twitter.com/S_K_Kaiser">
+    <img src="url-to-twitter-icon" alt="Twitter">
+  </a>
+</div>
+
+<style>
+  .icon-links {
+    display: flex; /* Make the icons align horizontally */
+    justify-content: space-between; /* Add space between icons */
+    max-width: 300px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the icons horizontally */
+  }
+
+  .icon-links a {
+    text-decoration: none; /* Remove underlines from links */
+  }
+
+  .icon-links img {
+    width: 50px; /* Adjust the width of the icons as needed */
+    height: 50px; /* Adjust the height of the icons as needed */
+    margin-right: 10px; /* Add some spacing between icons */
+  }
+</style>
 
