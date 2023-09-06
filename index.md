@@ -21,34 +21,20 @@ layout: default
 </div>
 
  
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4">
-        <ul class="list-inline social-buttons">
-          <center>
-            <a href="https://github.com/{{ site.github_username }}">
-              <i class="fa fa-github"></i> My Github account
-            </a>
-          </center>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-
 <div class="icon-links">
   <a href="https://scholar.google.de/citations?user=gcnnM8IAAAAJ&hl=de&oi=sra">
-    <img src="url-to-google-scholar-icon" alt="Google Scholar">
+    <i class="fa fa-google"></i> Google Scholar
   </a>
 
   <a href="www.linkedin.com/in/silke-kaiser">
-    <img src="url-to-linkedin-icon" alt="LinkedIn">
+    <i class="fa fa-linkedin"></i> LinkedIn
   </a>
 
   <a href="https://twitter.com/S_K_Kaiser">
-    <img src="url-to-twitter-icon" alt="Twitter">
+    <i class="fa fa-twitter"></i> Twitter
   </a>
 </div>
+
 
 <style>
   .icon-links {
