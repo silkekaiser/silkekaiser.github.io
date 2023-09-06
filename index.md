@@ -26,7 +26,7 @@ layout: default
     <i class="fa fa-google-plus"></i> Google Scholar
   </a>
 
-  <a href="www.linkedin.com/in/silke-kaiser">
+  <a href="https://linkedin.com/in/silke-kaiser">
     <i class="fa fa-linkedin"></i> LinkedIn
   </a>
 
