@@ -57,7 +57,7 @@ layout: default
   .icon-links img {
     width: 50px; /* Adjust the width of the icons as needed */
     height: 50px; /* Adjust the height of the icons as needed */
-    margin-right: 20px; /* Add some spacing between icons */
+    margin-right: 30px; /* Add some spacing between icons */
   }
 </style>
 
