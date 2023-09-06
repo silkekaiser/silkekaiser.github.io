@@ -34,7 +34,7 @@ layout: default
     <i class="fa fa-twitter"></i> Twitter
   </a>
 
-<a href="https://github.com/{{ site.github_username }}">
+<a href="https://github.com/silkekaiser">
   <i class="fa fa-github"></i> Github
 </a>
   
