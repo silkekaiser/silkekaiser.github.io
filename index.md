@@ -22,6 +22,11 @@ layout: default
 
  
 <div class="icon-links">
+
+<a href="mailto:your.email@example.com">
+    <i class="fa fa-envelope"></i> Email Me
+  </a>
+  
   <a href="https://scholar.google.de/citations?user=gcnnM8IAAAAJ&hl=de&oi=sra">
     <i class="fa fa-google"></i> Google Scholar
   </a>
@@ -37,6 +42,8 @@ layout: default
 <a href="https://github.com/silkekaiser">
   <i class="fa fa-github"></i> Github
 </a>
+
+
   
 </div>
 
