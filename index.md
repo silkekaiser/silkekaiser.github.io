@@ -41,3 +41,8 @@ layout: default
 
 <p><i class="fa fa-camera-retro fa-5x"></i> fa-camera-retro</p>
 
+<section>
+  <Link href="//github.com/silkekaiser">
+    <a><FontAwesomeIcon icon={faChevronRight} /></a>
+  </Link>
+</section>
