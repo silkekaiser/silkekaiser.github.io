@@ -23,7 +23,7 @@ layout: default
 <div class="icon-links">
   
   <a href="https://scholar.google.de/citations?user=gcnnM8IAAAAJ&hl=de&oi=sra">
-    <i class="fa fa-graduation-cap"></i> Google Scholar
+    <i class="fa fa-graduation-cap"></i> GoogleScholar
   </a>
 
   <a href="https://linkedin.com/in/silke-kaiser">
