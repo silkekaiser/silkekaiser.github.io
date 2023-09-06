@@ -9,24 +9,6 @@ theme: jekyll-theme-cayman
 github_username:      silkekaiser
 
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/silke-kaiser"
 
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/silkekaiser"
-
- [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/S_K_Kaiser"
-
-  [[params.social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "//scholar.google.de/citations?user=gcnnM8IAAAAJ&hl=de&oi=sra"  
 
 
