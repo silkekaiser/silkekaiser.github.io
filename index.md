@@ -33,8 +33,8 @@ layout: default
 </a>
 
 <ul class="nav nav-pills nav-stacked">
-  <li class="active"><a href="#"><i class="fa fa-google fa-5x"></i> Home</a></li>
-  <li><a href="#"><i class="fa fa-linkedin fa-5x"></i> Library</a></li>
-  <li><a href="#"><i class="fa fa-twitter fa-5x"></i> Applications</a></li>
+  <li class="active"><a href="#"><i class="fa fa-google fa-5x"></i> Link here</a></li>
+  <li><a href="#"><i class="fa fa-linkedin fa-5x"></i> Link here</a></li>
+  <li><a href="#"><i class="fa fa-twitter fa-5x"></i> Link here</a></li>
 </ul>
 
