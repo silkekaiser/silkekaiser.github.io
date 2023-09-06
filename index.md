@@ -39,5 +39,5 @@ layout: default
   <li><a href="#"><i class="fa fa-cogs fa-fw"></i> Settings</a></li>
 </ul>
 
-
+<p><i class="fa fa-camera-retro fa-5x"></i> fa-camera-retro</p>
 
