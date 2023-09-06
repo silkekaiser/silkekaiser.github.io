@@ -33,10 +33,9 @@ layout: default
 </a>
 
 <ul class="nav nav-pills nav-stacked">
-  <li class="active"><a href="#"><i class="fa fa-google fa-fw"></i> Home</a></li>
-  <li><a href="#"><i class="fa fa-linkedin fa-fw"></i> Library</a></li>
-  <li><a href="#"><i class="fa fa-twitter fa-fw"></i> Applications</a></li>
-  <li><a href="#"><i class="fa fa-cogs fa-fw"></i> Settings</a></li>
+  <li class="active"><a href="#"><i class="fa fa-google fa-5x"></i> Home</a></li>
+  <li><a href="#"><i class="fa fa-linkedin fa-5x"></i> Library</a></li>
+  <li><a href="#"><i class="fa fa-twitter fa-5x"></i> Applications</a></li>
 </ul>
 
 <p><i class="fa fa-camera-retro fa-5x"></i> fa-camera-retro</p>
