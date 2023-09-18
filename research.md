@@ -24,5 +24,6 @@ With Lynn H. Kaack and Nadja Klein [Link](https://opus4.kobv.de/opus4-hsog/files
 
 
 <iframe src="assets/heatmap_with_time_streetwise.html" style="width: 100%; max-width: 1000px; height: 70vh; border: none; pointer-events: none;"></iframe>
-<iframe src="assets/heatmap_with_time_streetwise.html" width="100%" height="400"></iframe>
+<iframe src="assets/heatmap_with_time_streetwise.html" width="100%" height="400" style="zoom: 0.8;"></iframe>
+
 
