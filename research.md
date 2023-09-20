@@ -23,4 +23,8 @@ With Lynn H. Kaack and Nadja Klein [Link](https://opus4.kobv.de/opus4-hsog/files
 
 <iframe src="assets/heatmap_with_time_streetwise.html" style="width: 100%; max-width: 1000px; height: 70vh; border: none;"></iframe>
 
+-----------------------------------
+## Miscellaneous
 
+**Opinion piece on "Pedalling Towards a Greener Future"
+08/09/23, [Link]([https://iclr.cc/virtual/2023/13461](https://catalysehorizon.eu/post/pedalling-towards-a-greener-future-the-impact-of-cycling-and-active-transport-on-climate-change-and-public-health/)https://catalysehorizon.eu/post/pedalling-towards-a-greener-future-the-impact-of-cycling-and-active-transport-on-climate-change-and-public-health/).
