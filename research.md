@@ -10,7 +10,7 @@ I am working at the intersection of machine learning and sustainable transport r
 
 -----------------------------------
 ## Working Papers
-https://tiles.stadiamaps.com/tiles/stamen_terrain/{z}/{x}/{y}{r}.jpg
+
 **Predicting cycling traffic in cities: Is bikesharing data representative of the cycling volume?** 
 
 With Lynn H. Kaack and Nadja Klein [Link](https://opus4.kobv.de/opus4-hsog/files/4942/Kaiser_Klein_Kaack_2023_Predicting_cycling.pdf)
