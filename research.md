@@ -27,7 +27,7 @@ With Lynn H. Kaack and Nadja Klein [Link](https://opus4.kobv.de/opus4-hsog/files
 ## Miscellaneous
 
 **Podcast: Environment Variables - Academic Forefronts, from Green Software Foundation**
-05/09/24, [Link]([https://catalysehorizon.eu/post/pedalling-towards-a-greener-future-the-impact-of-cycling-and-active-transport-on-climate-change-and-public-health/](https://podcasts.castplus.fm/e/pnlxx2mn-academic-forefronts)).
+05/09/24, [Link](https://podcasts.castplus.fm/e/pnlxx2mn-academic-forefronts).
 
 **Opinion piece: "Pedalling Towards a Greener Future", in CATALYSE**
 08/09/23, [Link](https://catalysehorizon.eu/post/pedalling-towards-a-greener-future-the-impact-of-cycling-and-active-transport-on-climate-change-and-public-health/).
