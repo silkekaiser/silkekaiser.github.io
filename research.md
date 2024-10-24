@@ -19,8 +19,6 @@ With Lynn H. Kaack and Nadja Klein [Link](https://opus4.kobv.de/opus4-hsog/files
 
 * A prediction of cycling volume in Berlin, using the methods described in the paper, can be found here for the whole city of Berlin, and a streetwise prediction for a subpart of Berlin: 
 
-<iframe src="assets/heatmap_with_time_streetwisehourly.html" style="width: 100%; max-width: 1000px; height: 70vh; border: none; "></iframe>
-
 <iframe src="assets/heatmap_with_time_streetwisedaily.html" style="width: 100%; max-width: 1000px; height: 70vh; border: none;"></iframe>
 
 -----------------------------------
