@@ -7,11 +7,16 @@ layout: default
     <img src="assets/KaiserSilke_profil.JPG" alt="Profile Image" width="200" height="300" style="margin-right: 20px;">
     <div>
         <p>
-            I am a Ph.D. student at the <a href="https://berlinschoolofeconomics.de/home">Berlin School of Economics</a>  and am being supervised by
-            <a href="https://lynnkaack.com/index.html">Prof. Lynn Kaack</a> at
-            <a href="https://www.hertie-school.org/en/datasciencelab/people/profile/person/kaiser">Hertie School Berlin</a>.
-            My research focuses on bicycle mobility data and statistical machine learning. I hope with my projects
-            to contribute to a better quality of life in urban spaces.
+            I am a Ph.D. student at the 
+            <a href="https://berlinschoolofeconomics.de/home" target="_blank">Berlin School of Economics</a> 
+            and at Hertie School Berlin. My research focuses on machine learning applications and development 
+            around the estimation of traffic volume in cities. With my research, I hope to contribute to a better 
+            quality of life in urban spaces. I am supervised by
+            <a href="https://lynnkaack.com/index.html" target="_blank">Prof. Lynn Kaack</a> (Hertie School Berlin), 
+            <a href="https://orbit.dtu.dk/en/persons/carlos-m-lima-azevedo" target="_blank">Prof. Carlos Lima Azevedo</a> 
+            (Technical University of Denmark), and 
+            <a href="https://sites.google.com/view/ahlfeldt/teaching" target="_blank">Prof. Gabriel Ahlfeldt</a> 
+            (Humboldt-University Berlin).
         </p>
         <p>
             Previously I studied at Université Panthéon-Sorbonne, where I obtained an M.Sc. in Quantitative Economics,
@@ -19,6 +24,7 @@ layout: default
         </p>
     </div>
 </div>
+
 
 <div class="icon-links">
   
