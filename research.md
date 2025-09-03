@@ -6,7 +6,8 @@ layout: default
 -----------------------------------
 ## Research Interest
 
-I am working at the intersection of machine learning and sustainable transport research. My interests include also applied econometrics, AI and spatio-temporal applications of statistics.
+My research focuses on machine learning applications in sustainable transport, alongside interests in applied econometrics and spatio-temporal statistics.
+
 -----------------------------------
 ## Published Papers
 
