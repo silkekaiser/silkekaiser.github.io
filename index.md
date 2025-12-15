@@ -9,8 +9,7 @@ layout: default
         <p>
             I am a Ph.D. student at the 
             <a href="https://berlinschoolofeconomics.de/home" target="_blank">Berlin School of Economics</a> 
-            and at Hertie School Berlin. My research focuses on machine learning applications and development 
-            around the estimation of traffic volume in cities. With my research, I hope to contribute to a better 
+            and at Hertie School Berlin. My research focuses on machine learning and its application to spatio temporal data, particularly for the estimation of traffic volume in cities. With my research, I hope to contribute to a better 
             quality of life in urban spaces. I am supervised by
             <a href="https://lynnkaack.com/index.html" target="_blank">Prof. Lynn Kaack</a> (Hertie School Berlin), 
             <a href="https://orbit.dtu.dk/en/persons/carlos-m-lima-azevedo" target="_blank">Prof. Carlos Lima Azevedo</a> 
