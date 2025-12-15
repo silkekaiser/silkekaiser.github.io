@@ -6,7 +6,7 @@ layout: default
 -----------------------------------
 ## Research Interest
 
-My research focuses on machine learning applications in sustainable transport, alongside interests in applied econometrics and spatio-temporal statistics.
+My research centers on machine learning methods for spatio-temporal data, particularly applied to sustainable transportation systems. I also have strong interests in applied econometrics and spatio-temporal statistics.
 
 -----------------------------------
 ## Published Papers
@@ -18,7 +18,7 @@ My research focuses on machine learning applications in sustainable transport, a
 Guillaume Chevance, Mark Nieuwenhuijsen, Kaue Braga, Kelly Clifton, Suzanne Hoadley, Lynn Kaack, **Silke K Kaiser**, Marcelo Lampkowski, Iuliana Lupu, Miklós Radics, Daniel Velázquez-Cortés, Sarah Williams, James Woodcock, Cathryn Tonne Environmental Research Letters 19.5 : 051002. [Link](https://iopscience.iop.org/article/10.1088/1748-9326/ad42b3/meta)
 
 -----------------------------------
-## Under Review Papers
+## In Revise & Resubmit Papers
 
 **Spatio-Temporal Graph Neural Network for Urban Spaces: Interpolating Citywide Traffic Volume** (2025)
 **Kaiser, S. K.**, Rodrigues, F., Azevedo, C. L., & Kaack, L. H.  arXiv preprint arXiv:2505.06292. Under Review with Expert Systems with Applications. [Link](https://arxiv.org/abs/2505.06292)
