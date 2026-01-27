@@ -26,9 +26,9 @@ Guillaume Chevance, Mark Nieuwenhuijsen, Kaue Braga, Kelly Clifton, Suzanne Hoad
 -----------------------------------
 ## Working Papers
 
-**Traffic Sensor Location Problem: A Reinforcement Learning and Explainability Approach to Urban Sensor Placement** (2025)
+**Sensor Placement for Urban Traffic Interpolation: A Data-Driven Evaluation to Inform Policy** (2026)
 
-**Kaiser, S.K.**
+**Kaiser, S.K.** arXiv preprint	arXiv:2601.10747. [Link](https://arxiv.org/abs/2601.10747)
 
 -----------------------------------
 ## Miscellaneous
