@@ -7,7 +7,7 @@ layout: default
     <img src="assets/KaiserSilke_profil.JPG" alt="Profile Image" width="200" height="300" style="margin-right: 20px;">
     <div>
         <p>
-            I am a Ph.D. student at the 
+            I am about to finish my Ph.D. studies with the title 'Machine Learning for Spatio-Temporal Urban Traffic Esimation' at the 
             <a href="https://berlinschoolofeconomics.de/home" target="_blank">Berlin School of Economics</a> 
             and at Hertie School Berlin. My research focuses on machine learning and its application to spatio temporal data, particularly for the estimation of traffic volume in cities. With my research, I hope to contribute to a better 
             quality of life in urban spaces. I am supervised by
